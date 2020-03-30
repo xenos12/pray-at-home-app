@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Grebnev";
+  src: url("./res/fonts/GREBNEVUCS.TTF") format("truetype");
+}
+
+.ucs {
+  font-family: "Grebnev";
+  font-size: 20pt;
+  text-align: justify;
+}
+.ucs span {
+  color: red;
+}
+.ucs h2 {
+  text-align: center;
+  color: red;
+}
